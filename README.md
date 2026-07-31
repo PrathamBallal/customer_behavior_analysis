@@ -191,10 +191,9 @@ Example:
 
 **Pratham Ballal**
 
-* 💼 Aspiring Data Analyst
+* 💼 Data Analyst
 * 🐙 GitHub: https://github.com/PrathamBallal
-* 🔗 LinkedIn: *Add your LinkedIn profile link*
-
+* 🔗 LinkedIn: https://www.linkedin.com/in/pratham-ballal
 ---
 
 ## ⭐ If you found this project useful, consider giving it a Star!
